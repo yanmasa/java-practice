@@ -1,4 +1,4 @@
-class typecast {
+class Dtypecast {
     public static void main(String args[]){
         // データ型の型変換　キャスト
         // 変数名が被らないように注意

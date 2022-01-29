@@ -1,4 +1,4 @@
-class 条件分岐 {
+class H {
     public static void main(String args[]){
         // for
         // 0-9

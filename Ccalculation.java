@@ -1,4 +1,4 @@
-class calculation {
+class Ccalculation {
     public static void main (String args[]){
         // 演算 + - * / %
         // ++ --

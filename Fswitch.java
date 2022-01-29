@@ -1,4 +1,4 @@
-class 条件分岐 {
+class Fswitch{
     public static void main(String args[]){
         // switch
         String signal = "green";

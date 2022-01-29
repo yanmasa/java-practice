@@ -1,4 +1,4 @@
-class 配列 {
+class Iarray {
     public static void main(String args[]){
         // 配列
         // sale1, sale2, ...　=> sales

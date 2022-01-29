@@ -1,4 +1,4 @@
-class 条件分岐 {
+class Gwhile {
     public static void main(String args[]){
         // while
         // 0-9

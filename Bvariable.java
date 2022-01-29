@@ -1,4 +1,4 @@
-class variable {
+class Bvariable {
     public static void main(String args[]){
         // 文字 シングルクオーテーション
         char a = 'a';

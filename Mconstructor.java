@@ -27,7 +27,7 @@ class AdminUser extends User {
   }
 }
 
-class MyApp {
+class Mconstructor {
 
   public static void main(String[] args) {
     User tom = new User("tom");

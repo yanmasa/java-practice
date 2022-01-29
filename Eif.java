@@ -1,4 +1,4 @@
-class 条件分岐 {
+class Eif {
     public static void main(String args[]){
         // 条=件分岐 if
         // 比較演算子　> >= < <= == != 

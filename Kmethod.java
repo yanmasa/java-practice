@@ -1,4 +1,4 @@
-public class メソッド {
+public class Kmethod {
     // メソッド
     // メソッドの内の変数はその中スコープ内でのみ有効
     // void はなにも返さない
